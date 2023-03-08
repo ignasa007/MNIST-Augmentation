@@ -1,1 +1,1 @@
-# 3D-Oriented-MNIST
+# MNIST-Augmentation
